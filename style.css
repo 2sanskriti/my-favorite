@@ -1,0 +1,70 @@
+body {
+    font-family: sans-serif;
+    background: linear-gradient(#1B5E20 0%, #FAFAFA 100%);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 250px;
+    height: 200px;
+}
+
+my {
+    border-radius: 50%;
+    width: 250px;
+    height: 200px;
+}
+
+h1 {
+    text-shadow: 2px, 2px #616161;
+    font-size: 30px;
+    font-family: font-family: 'Akaya Kanadaka', cursive;
+}
+
+p {
+    font-size: 20px;
+}
+
+.menu {
+    text-decoration: underline;
+    list-style: none;
+    z-index: 10;
+    cursor: pointer;
+    font-family: fantasy;
+    width: 100%;
+    margin-top: 0px;
+
+}
+
+.link {
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.link:hover {
+    color: whitesmoke;
+    background-color: lavenderblush;
+}
+
+img {
+
+    border-radius: 20%;
+    width: 350px;
+    height: 450px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+.contacts {
+    width:300px;
+}
